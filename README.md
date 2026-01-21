@@ -54,7 +54,7 @@ To run this project locally:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/portfolio.git
+git clone [https://github.com/your-username/portfolio.git](https://pruthviraz.github.io/Portfolio/)
 
 2. Navigate to the project folder
 
